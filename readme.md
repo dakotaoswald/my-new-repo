@@ -4,4 +4,4 @@
 
 * **Polymorphism/ override:** The example method is called during the runtime to change the string for the Terarria class.
 
-* **Encapsulation:** The getter and setter method in the Terraria class is used to set a rating and retreive it later on.
+* **Encapsulation:** The getter and setter method in the Terraria class is used to set a rating and retrieve it later on.
